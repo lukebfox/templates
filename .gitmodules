@@ -1,6 +1,6 @@
 [submodule "gitignore"]
-path = gitignore
-url = https://github.com/github/gitignore
+	path = gitignore
+	url = https://github.com/github/gitignore
 [submodule "nix-latex-template"]
 path = nix-latex-template
 url = https://github.com/lukebfox/nix-latex-template
